@@ -39,3 +39,14 @@ height: 500px;
 .social:hover {
     transform: scale(1.3);
 }
+
+
+.card-img-top {
+    opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+
+.card-img-top:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
