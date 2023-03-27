@@ -31,3 +31,11 @@ height: 500px;
 .subtitle {
     color: lightblue;
 }
+
+.social {
+    transition: all .2s ease-in-out;
+}
+
+.social:hover {
+    transform: scale(1.3);
+}
