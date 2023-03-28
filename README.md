@@ -3,4 +3,4 @@
 
 ## Screenshot
 
-![](public/img/portfolio.png)
+![](img/portfolio.png)
